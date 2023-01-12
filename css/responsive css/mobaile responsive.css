@@ -1,0 +1,235 @@
+@media (max-width:575.98px) {
+
+
+    /* Navbar START */
+    .navbar {
+        padding: 25px 0;
+        position: static;
+        background: black;
+    }
+
+    .navbar-toggler-icon i {
+        color: aliceblue;
+        text-align: center;
+        line-height: 1.5rem;
+    }
+
+    .navbar-toggler-icon i {
+        color: #6A4DF4;
+    }
+
+    .slick-dots li {
+        margin: 0 5px;
+    }
+
+    /* NAVBAR END  */
+
+    /*BANNER START*/
+    .banner-iteam {
+        padding: 100px 0 175px;
+
+    }
+
+    .banner-text h1 {
+        font-size: 24px;
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        width: auto;
+    }
+
+    /*BANNER END*/
+
+    /* COUNTER START */
+    .counter-left {
+        background: #E0FFF9;
+        padding: 0 0 0 20px;
+    }
+
+    .counter-left h4 {
+        font-size: 27px;
+        line-height: 35px;
+        font-weight: 600;
+        font-family: 'Inter', sans-serif;
+        padding: 0 6px;
+    }
+
+    .right-info span {
+        font-size: 35px;
+    }
+
+    .right-info p {
+        font-size: 16px;
+    }
+
+    .counter-right {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 25px 0px 70px;
+    }
+
+    /* COUNTER END */
+
+    /*  OUR SERVICE START */
+    #our-service {
+        padding: 0px;
+    }
+
+    .common-title h4 {
+        font-size: 25px;
+        width: 300px;
+        padding: 0;
+        line-height: 35px;
+    }
+
+    .common-title p {
+        font-size: 14px;
+        width: 300px;
+    }
+
+    .service-icon {
+        text-align: center;
+        padding: 0px 0 0;
+    }
+
+    .service-iteam h5 {
+        font-size: 25px;
+        padding: 30px 0 0;
+    }
+
+    .service-iteam p {
+        font-size: 14px;
+        color: grey;
+        padding: 0 10px 0px;
+    }
+
+    .service-iteam:hover {
+        box-shadow: none;
+        border-radius: none;
+    }
+
+    /*  OUR SERVICE END */
+
+    /*  OUR PROJECT START  */
+    .our-work {
+        padding: 10px 0 0;
+    }
+
+    /* OUR PROJECT END */
+
+    /*  AGENC SUPPORT START  */
+    .agenc-support {
+        padding: 60px 20px 0;
+    }
+
+    .agenc-support p {
+        font-size: 16px;
+        color: grey;
+        width: 280px;
+    }
+
+    /* AGENC SUPORT END */
+
+    /* CLIENT REVIEWS START */
+    .client-profaile {
+        padding: 50px 0;
+        display: none;
+    }
+
+    .right {
+        display: none !important;
+    }
+
+    .left {
+        display: none !important;
+    }
+
+    .profaile-info {
+        margin: 20px 20px 0 0;
+    }
+
+    .profaile-info p {
+        width: 215px;
+    }
+
+    .profaile-img img {
+        padding: 10px;
+        max-width: 100%;
+        object-fit: contain;
+    }
+
+    /* CLIENT REVIEWS END  */
+
+    /* CONTACT US START */
+    .contact-inf {
+        padding: 50px 0 0;
+    }
+
+    .contact-inf h5 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .form-title h4 {
+        font-size: 20px;
+    }
+
+    .form-requrment label {
+        font-size: 15px;
+    }
+
+    .form-requrment input {
+        padding: 15px;
+
+    }
+
+    .form-btn button {
+        font-size: 16px;
+    }
+
+    /* FOOTER START  */
+    .footer-logo {
+        padding: 0px 0 15px;
+    }
+
+    .about h5 {
+        padding: 10px 0 0;
+        text-align: center;
+    }
+
+    .about-info p {
+        margin-top: -10px;
+        text-align: center;
+    }
+
+    .company h5 {
+        padding: 10px 0 0;
+        text-align: center;
+    }
+
+    .company-info p {
+        margin-top: -10px;
+        text-align: center;
+    }
+
+    .support h5 {
+        padding: 10px 0 0;
+        text-align: center;
+    }
+
+    .support-info p {
+        margin-top: -10px;
+        text-align: center;
+    }
+
+    .Get h5 {
+        padding: 10px 0 0;
+        text-align: center;
+    }
+
+    .get-info p {
+        margin-top: -10px;
+        text-align: center;
+    }
+}
